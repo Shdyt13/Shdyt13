@@ -1,227 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sapar Hidayat S.</h1>
-
-<h3 align="center">
-  Software Engineer | AI/ML Engineer | Full-Stack Developer
-</h3>
+<h1 align="center">Sapar Hidayat S.</h1>
+<h3 align="center">Software Engineer · AI/ML Engineer · Full-Stack Developer</h3>
 
 <p align="center">
-  Informatics Engineering student passionate about building web applications,
+  Informatics Engineering student focused on building web applications,
   backend systems, and data-driven solutions.
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently working on **Personal Portfolio CMS & Web Applications**
-- 🌱 Currently learning **Python, AI Engineering, Next.js, Backend API & System Design**
-- 👯 Looking to collaborate on **Web Development, Full-Stack & AI/ML Projects**
-- 🤝 Looking for help with **Advanced Backend Architecture & System Design**
-- 💬 Ask me about **React.js, Laravel, CodeIgniter, REST API, Python & Machine Learning**
-- 📫 Reach me at **saparhdyt13@gmail.com**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Shdyt13)
-- 📄 View my [Resume](https://drive.google.com/file/d/13FCMURuxyA6X6RpgjsBo1gXiW0BDtSDg/view)
-- ⚡ Fun fact: **I enjoy turning ideas and data into practical technology solutions.**
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/sapar-hidayat-s" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         width="40"
-         height="40"/>
-  </a>
-
-  <a href="https://instagram.com/shdyt_s" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="Instagram"
-         width="40"
-         height="40"/>
-  </a>
-
-  <a href="https://github.com/Shdyt13" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         alt="GitHub"
-         width="40"
-         height="40"/>
-  </a>
+<p align="center">
+  <a href="mailto:saparhdyt13@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/sapar-hidayat-s">LinkedIn</a> ·
+  <a href="https://github.com/Shdyt13">GitHub</a> ·
+  <a href="https://drive.google.com/file/d/13FCMURuxyA6X6RpgjsBo1gXiW0BDtSDg/view">Resume</a>
 </p>
 
 ---
 
-### 🛠️ Languages
+## About
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-         alt="PHP" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="HTML5" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-         alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
+- Currently building a **Personal Portfolio CMS** and other web applications
+- Learning **Python, AI Engineering, Next.js, and Backend System Design**
+- Open to collaboration on **Web Development** and **AI/ML** projects
+- Interested in advice on **Advanced Backend Architecture & System Design**
+- Happy to talk about **React.js, Laravel, CodeIgniter, REST APIs, Python, and Machine Learning**
 
 ---
 
-### 🎨 Frontend Development
+## Tech Stack
 
-<p align="left">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-         alt="React.js" width="40" height="40"/>
-  </a>
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg"
-         alt="React Native" width="40" height="40"/>
-  </a>
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-         alt="Next.js" width="40" height="40"/>
-  </a>
+**Backend**
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-         alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+**Database**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
----
+**AI / Machine Learning**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### ⚙️ Backend Development
-
-<p align="left">
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-         alt="Laravel" width="40" height="40"/>
-  </a>
-
-  <a href="https://codeigniter.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-         alt="CodeIgniter" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-         alt="Node.js" width="40" height="40"/>
-  </a>
-
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-         alt="Flask" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-         alt="Postman" width="40" height="40"/>
-  </a>
-</p>
+**Tools & DevOps**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 🗄️ Database
-
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         alt="PostgreSQL" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-         alt="MongoDB" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-         alt="SQLite" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🤖 AI & Machine Learning
-
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-         alt="PyTorch" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-         alt="TensorFlow" width="40" height="40"/>
-  </a>
-
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-         alt="Scikit-learn" width="40" height="40"/>
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-         alt="Pandas" width="40" height="40"/>
-  </a>
-
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-         alt="OpenCV" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🐳 DevOps & Tools
-
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-         alt="Docker" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         alt="Git" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-         alt="GitHub" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-         alt="Linux" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.nginx.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-         alt="Nginx" width="40" height="40"/>
-  </a>
-</p>
+<p align="center"><i>All projects are available on <a href="https://github.com/Shdyt13">GitHub</a>.</i></p>
